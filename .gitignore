@@ -209,3 +209,4 @@ __marimo__/
 # custom (mine)
 .idea/
 *.csv
+embeddings/
